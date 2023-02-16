@@ -30,6 +30,13 @@ Given a webpage meets accessibility standards
 ## Assets
 
 The following images demostrates the web application's appearance:
+
 ![brand-awareness](https://user-images.githubusercontent.com/108309770/219256828-8e03f983-7406-4b24-a209-8d3026e08d6b.png)
+
+![cost-management](https://user-images.githubusercontent.com/108309770/219257041-7a0dd112-bf2f-47c3-970b-b9229fc6b552.png)
+
+![lead-generation](https://user-images.githubusercontent.com/108309770/219257118-e6f36352-5ebc-4b1b-9ec7-fecc4da2098d.png)!
+
+[Uploading online-reputation-management.jpg…]()
 
 
