@@ -31,12 +31,23 @@ Given a webpage meets accessibility standards
 
 The following images demostrates the web application's appearance:
 
-![brand-awareness](https://user-images.githubusercontent.com/108309770/219256828-8e03f983-7406-4b24-a209-8d3026e08d6b.png)
 
-![cost-management](https://user-images.githubusercontent.com/108309770/219257041-7a0dd112-bf2f-47c3-970b-b9229fc6b552.png)
+https://github.com/AlexNanut/First-week-challange/tree/main/images#:~:text=.%E2%80%8A.-,brand%2Dawareness.png,-Add%20files%20via
 
-![lead-generation](https://user-images.githubusercontent.com/108309770/219257118-e6f36352-5ebc-4b1b-9ec7-fecc4da2098d.png)!
+https://github.com/AlexNanut/First-week-challange/tree/main/images#:~:text=1%20minute%20ago-,cost%2Dmanagement.png,-Add%20files%20via
 
+https://github.com/AlexNanut/First-week-challange/tree/main/images#:~:text=digital%2Dmarketing%2Dmeeting.jpg
 
+https://github.com/AlexNanut/First-week-challange/tree/main/images#:~:text=2%20minutes%20ago-,lead%2Dgeneration.png,-Add%20files%20via
+
+https://github.com/AlexNanut/First-week-challange/tree/main/images#:~:text=online%2Dreputation%2Dmanagement.jpg
+
+https://github.com/AlexNanut/First-week-challange/tree/main/images#:~:text=search%2Dengine%2Doptimization.jpg
+
+https://github.com/AlexNanut/First-week-challange/tree/main/images#:~:text=social%2Dmedia%2Dmarketing.jpg
+
+# Mock-Up
+
+This layout is designed for "desktop", so you may notice that some of the elements don't look like the Mock-Up when viewed at a resolution smaller than 768px.
 
 
