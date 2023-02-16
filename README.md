@@ -37,6 +37,6 @@ The following images demostrates the web application's appearance:
 
 ![lead-generation](https://user-images.githubusercontent.com/108309770/219257118-e6f36352-5ebc-4b1b-9ec7-fecc4da2098d.png)!
 
-[Uploading online-reputation-management.jpg…]()
+
 
 
